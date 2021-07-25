@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">BWAMov</string>
+    <string name="lewati_perkenalan">Lewati Perkenalan</string>
+    <string name="Lanjutkan">lanjutkan</string>
+    <string name="now_playing">Now Playing</string>
+    <string name="now_playing_desc">Lebih mudah untuk mengetahui <br /> film yang sedang tampil</string>
 </resources>
