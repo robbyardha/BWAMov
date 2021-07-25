@@ -4,4 +4,8 @@
     <string name="Lanjutkan">lanjutkan</string>
     <string name="now_playing">Now Playing</string>
     <string name="now_playing_desc">Lebih mudah untuk mengetahui <br /> film yang sedang tampil</string>
+    <string name="presale">Pre Sale</string>
+    <string name="presale_desc">Tidak khawatir ketinggalan <br /> update film terbaru </string>
+    <string name="cashless">Cashless</string>
+    <string name="cashless_desc">Gunakan e-wallet untuk <br /> transaksi tiket nonton </string>
 </resources>
